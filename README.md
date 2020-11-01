@@ -4,4 +4,4 @@ https://covid.icmr.org.in/index.php/testing-facilities
 
 The data will be updated preiodically here with addition of new testing centres.
 
-Note: Hotspot_ID in data is the id as displayed/linked on ICMR's web portal.
+Note: Hotspot_ID in data is the id as displayed/linked on ICMR's web portal...
